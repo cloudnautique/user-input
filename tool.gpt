@@ -1,7 +1,3 @@
-tools: prompt
-Ask the user for their name and email address
-
----
 name: prompt
 description: this script will prompt the user for multiple inputs on one go, just ask with a comma separated list
 args: prompt_fields: a comma separated list of things to prompt the user for use snakecase for fields with spaces.
